@@ -1,3 +1,3 @@
-deployment_path: "~/Infrastructure"
+deployment_path: "~/Infrastucture"
 git_repository: "https://github.com/PiotrekJablonski/Infrastucture.git"
 git_branch: "master"
